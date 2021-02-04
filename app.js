@@ -25,6 +25,7 @@ if(data.Response){
 //j'appel ma fonction pour avoir un contenu au chargement de la page
 getMovie('batman')
 
+//essayer d'afficher un film en random
 
 //je fetch les data de la fonction avec le nom cherché
 form.addEventListener('submit', (event) =>{
